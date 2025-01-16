@@ -1,0 +1,6 @@
+Patient_ID||Patient_Name||Patient_Disease||Patient_Age||Patient_Room
+1 		  Ali  	     Fewer     	     19        	  5
+Patient_ID||Patient_Name||Patient_Disease||Patient_Age||Patient_Room
+152   		  Zohaib Ahmed   	     Mental disorder     	     20        	  1
+Patient_ID||Patient_Name||Patient_Disease||Patient_Age||Patient_Room
+195   		  AbdulGhafar   	     ill     	     19        	  2
