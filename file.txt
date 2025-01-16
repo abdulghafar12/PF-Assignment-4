@@ -1,0 +1,6 @@
+Book_ID||Book_Tittle||Book_Author||Book_Price||Book_Quantity
+Book_ID||Book_Tittle||Book_Author||Book_Price||Book_Quantity
+12      	   Hate    	   agafar     	    43    	   2
+234    	poetry    	rehman baba	  342	  3
+Book_ID||Book_Tittle||Book_Author||Book_Price||Book_Quantity
+201      	   Peace    	   Ali Ahmed     	    3000    	   1
